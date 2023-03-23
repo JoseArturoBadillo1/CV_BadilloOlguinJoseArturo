@@ -374,8 +374,8 @@
 
 .caja1{
   background-color: #2b46c0;
-  -webkit-transition: background-color 2s linear;
-  transition: background-color 3s linear;
+  -webkit-transition: background-color 1s linear;
+  transition: background-color 1s linear;
 }
 .caja1:hover{
   background-color: #3dd1b9;
